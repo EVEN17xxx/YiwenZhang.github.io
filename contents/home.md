@@ -1,16 +1,11 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am pursuing a Master’s Degree in Computational Social Science at the Department of Management and Engineering, Linköping University, Sweden.
 
 #### Email
-sli[at]cumt.edu.cn
+yiwzh466[at]student.liu.se
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
+MSc, Computational Social Science, Linköping University, 2023–2025 (expected).
+BSc, Social Work, Nanjing Institute of Technology, 2019–2023.
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Natural Language Processing, Social Network Analysis, Machine Learning, Inequality and Segregation, Agent-Based Modeling.
 
