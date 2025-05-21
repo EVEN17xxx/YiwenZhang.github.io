@@ -1,4 +1,5 @@
-I am pursuing a Master’s Degree in Computational Social Science at the Department of Management and Engineering, Linköping University, Sweden.
+
+I’m Yiwen Zhang, a Master’s Degree in Computational Social Science at Linköping University, a data-driven problem solver with a passion for turning complex information into clear, meaningful insights. With a background in Computational Social Science and hands-on experience in data analysis, machine learning, and NLP, I bridge the gap between research and real-world impact.
 
 #### Email
 yiwzh466[at]student.liu.se
