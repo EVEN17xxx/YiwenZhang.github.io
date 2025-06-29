@@ -1,4 +1,4 @@
-# Extra-Curricular Activities
+
 
 ## Board Member — LinCSS Association, Linköping University  
 *May 2024 – Present*
@@ -19,4 +19,4 @@
 - Led the organization of multicultural events (e.g., Chinese Spring Festival celebration), designing cultural activities and decorations to engage 50+ attendees.  
 - Collaborated with international student groups to co-host themed nights, fostering inclusivity and boosting participation.  
 
-![Vattentornet Student Pub Event](/YiwenZhang.github.io/static/assets/img/student_pub_event.jpg)
+![Vattentornet Student Pub Event](/YiwenZhang.github.io/static/assets/img/student_pub_event.jpeg)
