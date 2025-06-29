@@ -115,4 +115,16 @@ section .main-body{
     }
 }
 
+/* Resize any images you place in your sections */
+.main-body img {
+  /* cap to 300px wide but shrink on small screens */
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+
+  /* center it and give a little breathing room */
+  display: block;
+  margin: 1.5rem auto;
+}
+
 
