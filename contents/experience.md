@@ -16,7 +16,17 @@
 ## Volunteer — Vattentornet Student Pub  
 *October 2023 – Present*
 
-- Led the organization of multicultural events (e.g., Chinese Spring Festival celebration), designing cultural activities and decorations to engage 50+ attendees.  
-- Collaborated with international student groups to co-host themed nights, fostering inclusivity and boosting participation.  
+ 
+-Led the organization of multicultural events such as the Chinese Spring Festival celebration,
+designing engaging cultural activities, themed decorations, and interactive experiences to attract and
+delight 50+ guests.
+-Collaborated with international student groups to co-host themed nights, promoting inclusivity and a
+welcoming atmosphere, which significantly boosted participation and customer satisfaction.
+-Managed day-to-day operational tasks during pub events, including customer service, and
+maintaining a clean, inviting environment to ensure an enjoyable experience for all attendees.
+-Actively contributed to marketing efforts by promoting events on social media and within the
+student community, resulting in increased visibility and higher event attendance.
+-Demonstrated strong teamwork and communication skills, working alongside a diverse group of
+volunteers to continuously enhance the pub’s service quality and customer engagement.  
 
 ![Vattentornet Student Pub Event](/YiwenZhang.github.io/static/assets/img/student_pub_event.jpeg)
