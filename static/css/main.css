@@ -115,16 +115,15 @@ section .main-body{
     }
 }
 
-/* Resize any images you place in your sections */
-.main-body img {
-  /* cap to 300px wide but shrink on small screens */
-  max-width: 300px;
-  width: 100%;
-  height: auto;
-
-  /* center it and give a little breathing room */
+/* ===========================================
+   Force‐resize images in all your Markdown sections
+============================================ */
+section .main-body img {
+  max-width: 300px !important;
+  width: 100%     !important;
+  height: auto    !important;
   display: block;
-  margin: 1.5rem auto;
+  margin: 1rem auto;
 }
 
 
