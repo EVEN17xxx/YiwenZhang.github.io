@@ -1,0 +1,80 @@
+# Starter CV, built from verified info only. You said you'd rebuild this yourself later —
+# treat this as a scaffold, not a finished CV.
+cv:
+  name: Yiwen Zhang
+  label: PhD Researcher, Social Dynamics Lab
+  email: TODO@ul.ie
+  location: Limerick, Ireland
+  image: ""
+  summary: PhD researcher studying social polarization, attitude networks, and item nonresponse at the Social Dynamics Lab, University of Limerick.
+
+  social_networks:
+    - network: ORCID
+      username: 0009-0009-9995-013X
+    - network: LinkedIn
+      username: yiwen-zhang-883b50295
+    - network: GitHub
+      username: EVEN17xxx
+
+  sections:
+    Education:
+      - institution: University of Limerick
+        location: Limerick, Ireland
+        area: Social Psychology / Computational Social Science
+        studyType: PhD
+        start_date: 2025
+        end_date: ""
+        highlights:
+          - "Thesis: When Missing Is Informative: Silence and Expression in the Social Information System"
+          - "Supervisor: Mike Quayle"
+
+      - institution: Linköping University
+        location: Linköping, Sweden
+        area: Computational Social Science
+        studyType: MSc
+        start_date: 2023
+        end_date: 2025
+
+      - institution: Nanjing Institute of Technology
+        location: Nanjing, China
+        area: Social Work
+        studyType: BSc
+        start_date: 2019
+        end_date: 2023
+
+    Volunteer:
+      - company: LinCSS Association, Linköping University
+        position: Board Member
+        location: Linköping, Sweden
+        start_date: 2024-05-01
+        end_date: ""
+        highlights:
+          - Organized welcome events and managed the buddy program connecting current and incoming students.
+          - Coordinated alumni engagement activities and assisted in planning the annual meeting and seasonal social gatherings.
+
+      - company: Vattentornet Student Pub
+        position: Volunteer
+        location: Linköping, Sweden
+        start_date: 2023-10-01
+        end_date: ""
+        highlights:
+          - Led the organization of multicultural events, including the Chinese Spring Festival celebration.
+          - Co-hosted themed nights with international student groups to promote inclusivity.
+
+    Awards:
+      - title: LiU International Award
+        awarder: Linköping University
+        date: 2024
+      - title: Outstanding Graduate Award
+        awarder: Nanjing Institute of Technology
+        date: 2023
+
+    Skills:
+      - name: Quantitative & Network Methods
+        level: ""
+        icon: fa-solid fa-chart-line
+        keywords: "R, multivariate statistics, structural equation models, cluster analysis, Response Item Networks (ResIN), centrality, community detection"
+      - name: Programming & Modeling
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, machine learning, agent-based modeling, LLM-based simulation"

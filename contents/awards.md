@@ -1,2 +1,0 @@
-- LiU International Award (Linköping University, 2024).
-- Outstanding Graduate Award (Nanjing Institute of Technology, 2023)
