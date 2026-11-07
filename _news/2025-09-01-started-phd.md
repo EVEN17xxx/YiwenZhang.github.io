@@ -1,8 +1,0 @@
----
-layout: post
-date: 2025-09-01 00:00:00-0000
-inline: true
-related_posts: false
----
-
-Started my PhD at the Social Dynamics Lab, University of Limerick. <!-- TODO: confirm exact start date -->
