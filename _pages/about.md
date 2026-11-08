@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: PhD Researcher, Social Dynamics Lab, University of Limerick
+subtitle: PhD Researcher, Department of Psychology, University of Limerick
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Social Dynamics Lab</p>
+    <p>Department of Psychology</p>
     <p>University of Limerick, Ireland</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm a PhD researcher at the [Social Dynamics Lab](https://www.ul.ie/), University of Limerick, supervised by Mike Quayle. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
+I'm a PhD researcher in the Department of Psychology, University of Limerick, supervised by Mike Quayle. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
 
 My work looks at this question from three angles: who stays silent in attitude surveys and why, agent-based simulations of social pressure and disengagement, and how speakers are positioned in news discourse. Across all three, I treat what goes unsaid — nonresponse, silence, omission — as part of the social information system, not as missing data to be deleted or imputed.
 

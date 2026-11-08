@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Economic Freedom and the Role of Government"
-description: "MSc coursework, 06.2024 — not peer-reviewed research"
+title: "Economic Freedom and the Role of Government (06.2024)"
+description: "MSc coursework"
 importance: 4
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

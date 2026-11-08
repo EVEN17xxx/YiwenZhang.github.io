@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Social Network Analysis: Help-Seeking Among Hungarian Teenagers"
-description: "MSc coursework, 03.2024 — not peer-reviewed research"
+title: "Social Network Analysis: Help-Seeking Among Hungarian Teenagers (03.2024)"
+description: "MSc coursework"
 importance: 6
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

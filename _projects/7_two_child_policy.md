@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Two-Child Policy & Fertility Intentions"
-description: "MSc coursework, 01.2024 — not peer-reviewed research"
+title: "Two-Child Policy & Fertility Intentions (01.2024)"
+description: "MSc coursework"
 importance: 7
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

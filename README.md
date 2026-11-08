@@ -2,7 +2,7 @@
 
 Built on [al-folio](https://github.com/alshedivat/al-folio), a Jekyll theme for academic websites.
 
-Live at: <https://even17xxx.github.io/YiwenZhang.github.io/>
+Live at: <https://yiwenzhang17.github.io/>
 
 ## Local development
 

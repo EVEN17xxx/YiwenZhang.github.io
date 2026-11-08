@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Discrete Choice Modelling: Education and Income"
-description: "MSc coursework, 03.2024 — not peer-reviewed research"
+title: "Discrete Choice Modelling: Education and Income (03.2024)"
+description: "MSc coursework"
 importance: 5
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

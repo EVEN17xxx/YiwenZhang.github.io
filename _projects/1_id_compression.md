@@ -3,7 +3,7 @@ layout: page
 title: ID-Compression Project
 description: Information distortion in social transmission; co-designing a card-sorting pilot study.
 importance: 1
-category: research
+category: Research
 related_publications: false
 ---
 
