@@ -136,8 +136,12 @@ blockquote {
   }
 }
 
-/* Local override: slightly larger, more readable body text on the about/homepage */
+/* Local override: larger, more readable body text on the about/homepage */
 .post article > .clearfix > p {
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   line-height: 1.75;
+}
+
+.post .desc {
+  font-size: 1.2rem;
 }
