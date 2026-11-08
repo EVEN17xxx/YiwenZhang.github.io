@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab talk at the Social Dynamics Lab: "From Iron Girls to Graceful Champions: Gendered Media Narratives in Chinese Sports," using *People's Daily* news coverage from 1949–2022.
+Lab talk: "From Iron Girls to Graceful Champions: Gendered Media Narratives in Chinese Sports," using *People's Daily* news coverage from 1949–2022.

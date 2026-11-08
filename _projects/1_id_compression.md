@@ -7,4 +7,4 @@ category: Research
 related_publications: false
 ---
 
-Contributing to the ID-Compression project at the Social Dynamics Lab: drafted a review of how information is distorted as it passes between people, and helped design Pilot 2, a card-sorting task in Qualtrics with congruent and random conditions, as a precursor to a larger study.
+Contributing to the ID-Compression project: drafted a review of how information is distorted as it passes between people, and helped design Pilot 2, a card-sorting task in Qualtrics with congruent and random conditions, as a precursor to a larger study.

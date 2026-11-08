@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm a PhD researcher in the Department of Psychology, University of Limerick, supervised by Mike Quayle. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
+I'm a PhD researcher in the Department of Psychology, University of Limerick, supervised by Mike Quayle, Srebrenka Letina, and Daniel Balinhas Pérez. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
 
 My work looks at this question from three angles: who stays silent in attitude surveys and why, agent-based simulations of social pressure and disengagement, and how speakers are positioned in news discourse. Across all three, I treat what goes unsaid — nonresponse, silence, omission — as part of the social information system, not as missing data to be deleted or imputed.
 

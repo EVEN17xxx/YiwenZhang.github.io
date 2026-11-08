@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab talk at the Social Dynamics Lab (with Davide Vandelli): "Help Needed on Information Compression Measures and Statistics for Transmission Chain Experiments."
+Lab talk (with Davide Vandelli): "Help Needed on Information Compression Measures and Statistics for Transmission Chain Experiments."
