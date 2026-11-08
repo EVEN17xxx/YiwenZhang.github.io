@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Wage Inequality & Sexual Orientation"
-description: "MSc coursework, 09.2024 — not peer-reviewed research"
+title: "Wage Inequality & Sexual Orientation (09.2024)"
+description: "MSc coursework"
 importance: 3
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

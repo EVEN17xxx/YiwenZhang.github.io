@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Echo Chambers & Privacy: Xiaohongshu Case Study"
-description: "MSc coursework, 03.2025 — not peer-reviewed research"
+title: "Echo Chambers & Privacy: Xiaohongshu Case Study (03.2025)"
+description: "MSc coursework"
 importance: 2
-category: coursework
+category: Coursework
 related_publications: false
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: No journal papers published yet — see conference presentations and working papers below. This page will switch to an automatically generated, BibTeX-driven list (see `_bibliography/papers.bib`) once there's more to show.
+title: Publications
 nav: true
 nav_order: 2
 ---

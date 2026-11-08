@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Current PhD research projects, plus earlier coursework from my MSc in Computational Social Science (not peer-reviewed research).
+description: Current PhD research projects, plus earlier coursework from my MSc in Computational Social Science.
 nav: true
 nav_order: 3
-display_categories: [research, coursework]
+display_categories: [Research, Coursework]
 horizontal: false
 ---
 
