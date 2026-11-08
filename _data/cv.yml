@@ -2,11 +2,11 @@
 # treat this as a scaffold, not a finished CV.
 cv:
   name: Yiwen Zhang
-  label: PhD Researcher, Social Dynamics Lab
+  label: PhD Researcher, Department of Psychology
   email: zhang.yiwen@ul.ie
   location: Limerick, Ireland
   image: ""
-  summary: PhD researcher studying social polarization, attitude networks, and item nonresponse at the Social Dynamics Lab, University of Limerick.
+  summary: PhD researcher studying social polarization, attitude networks, and item nonresponse at the Department of Psychology, University of Limerick.
 
   social_networks:
     - network: ORCID
@@ -26,7 +26,7 @@ cv:
         end_date: ""
         highlights:
           - "Thesis: When Missing Is Informative: Silence and Expression in the Social Information System"
-          - "Supervisor: Mike Quayle"
+          - "Supervisors: Mike Quayle, Srebrenka Letina, and Daniel Balinhas Pérez"
 
       - institution: Linköping University
         location: Linköping, Sweden
@@ -47,7 +47,7 @@ cv:
         position: Board Member
         location: Linköping, Sweden
         start_date: 2024-05-01
-        end_date: ""
+        end_date: 2025
         highlights:
           - Organized welcome events and managed the buddy program connecting current and incoming students.
           - Coordinated alumni engagement activities and assisted in planning the annual meeting and seasonal social gatherings.
@@ -56,7 +56,7 @@ cv:
         position: Volunteer
         location: Linköping, Sweden
         start_date: 2023-10-01
-        end_date: ""
+        end_date: 2025
         highlights:
           - Led the organization of multicultural events, including the Chinese Spring Festival celebration.
           - Co-hosted themed nights with international student groups to promote inclusivity.

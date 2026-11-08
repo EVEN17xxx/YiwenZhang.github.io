@@ -26,7 +26,12 @@ latest_posts:
   limit: 3
 ---
 
-I'm a PhD researcher in the Department of Psychology, University of Limerick, supervised by Mike Quayle. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
+*Social Polarization • Attitude Networks • Item Nonresponse • Agent-Based Modeling • Computational Social Science • Survey Methodology*
+
+> My abstract on nonresponse in cross-national attitude networks was accepted for a special issue of *International Journal of Sociology* on "National Identity and Citizenship" — full manuscript due January 2027.
+{: .block-tip}
+
+I'm a PhD researcher in the Department of Psychology, University of Limerick, supervised by Mike Quayle, Srebrenka Letina, and Daniel Balinhas Pérez. I study how networks of attitudes and meanings become aligned with social identities, so that a small set of expressed positions can reveal broader patterns of group membership.
 
 My work looks at this question from three angles: who stays silent in attitude surveys and why, agent-based simulations of social pressure and disengagement, and how speakers are positioned in news discourse. Across all three, I treat what goes unsaid — nonresponse, silence, omission — as part of the social information system, not as missing data to be deleted or imputed.
 
