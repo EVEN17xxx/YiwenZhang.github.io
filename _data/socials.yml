@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+
+email: zhang.yiwen@ul.ie # your email address
+orcid_id: 0009-0009-9995-013X # your ORCID iD
+linkedin_username: yiwen-zhang-883b50295 # your LinkedIn username
+github_username: EVEN17xxx # your GitHub username
+# cv_pdf: /assets/pdf/cv.pdf # uncomment once you upload a real CV PDF to assets/pdf/
+rss_icon: true # comment this line to hide the RSS icon
