@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://even17xxx.github.io/YiwenZhang.github.io/sitemap.xml
+Sitemap: https://yiwenzhang17.github.io/sitemap.xml
